@@ -1,4 +1,4 @@
-# ClickPaaS - 先的hpaPaaS服务提供商
+# ClickPaaS - 领先的hpaPaaS服务提供商
 
 为企业提供极简的应用生成平台，零/低代码实现业务需求的快速交付
 
